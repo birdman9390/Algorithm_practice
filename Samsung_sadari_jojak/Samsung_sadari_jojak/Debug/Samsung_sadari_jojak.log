@@ -1,0 +1,4 @@
+﻿  Samsung_sadari_jojak.cpp
+c:\users\이재엽\source\repos\samsung_sadari_jojak\samsung_sadari_jojak\samsung_sadari_jojak.cpp(7): warning C4091: 'typedef ': 변수를 선언하지 않으면 'VERTEX' 왼쪽은 무시됩니다.
+c:\users\이재엽\source\repos\samsung_sadari_jojak\samsung_sadari_jojak\samsung_sadari_jojak.cpp(131): warning C4715: 'Game::checkAnswer': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Samsung_sadari_jojak.vcxproj -> C:\Users\이재엽\source\repos\Samsung_sadari_jojak\Debug\Samsung_sadari_jojak.exe
