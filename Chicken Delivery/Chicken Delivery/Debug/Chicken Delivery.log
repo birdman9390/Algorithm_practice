@@ -1,0 +1,5 @@
+﻿  Chicken.cpp
+c:\users\이재엽\algorithm_practice\chicken delivery\chicken delivery\chicken.cpp(72): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이재엽\algorithm_practice\chicken delivery\chicken delivery\chicken.cpp(101): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이재엽\algorithm_practice\chicken delivery\chicken delivery\chicken.cpp(110): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Chicken Delivery.vcxproj -> C:\Users\이재엽\Algorithm_Practice\Chicken Delivery\Debug\Chicken Delivery.exe
