@@ -1,0 +1,4 @@
+﻿  supervisor.cpp
+c:\users\이재엽\algorithm_practice\supervising(cctv)\supervising(cctv)\supervisor.cpp(122): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이재엽\algorithm_practice\supervising(cctv)\supervising(cctv)\supervisor.cpp(155): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Supervising(CCTV).vcxproj -> C:\Users\이재엽\Algorithm_Practice\Supervising(CCTV)\Debug\Supervising(CCTV).exe
