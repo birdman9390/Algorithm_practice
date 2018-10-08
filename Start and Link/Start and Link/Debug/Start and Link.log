@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\이재엽\algorithm_practice\start and link\start and link\소스.cpp(58): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이재엽\algorithm_practice\start and link\start and link\소스.cpp(69): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Start and Link.vcxproj -> C:\Users\이재엽\Algorithm_Practice\Start and Link\Debug\Start and Link.exe
