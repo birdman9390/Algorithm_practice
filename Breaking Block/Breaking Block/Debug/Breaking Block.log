@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\이재엽\algorithm\breaking block\breaking block\소스.cpp(73): warning C4244: '초기화 중': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\이재엽\algorithm\breaking block\breaking block\소스.cpp(135): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Breaking Block.vcxproj -> C:\Users\이재엽\Algorithm\Breaking Block\Debug\Breaking Block.exe
