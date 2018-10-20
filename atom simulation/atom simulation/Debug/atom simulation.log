@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\이재엽\algorithm_practice\atom simulation\atom simulation\소스.cpp(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이재엽\algorithm_practice\atom simulation\atom simulation\소스.cpp(145): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\이재엽\algorithm_practice\atom simulation\atom simulation\소스.cpp(175): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  atom simulation.vcxproj -> C:\Users\이재엽\Algorithm_Practice\atom simulation\Debug\atom simulation.exe
